@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spinner1</string>
+
+    <string name="tip_mount_prompt">Choose a colour</string>
+    <string name="btn_calc">Calculate</string>
+
+    <string-array name="colour_arrays">
+    <item>large - 25%</item>
+    <item>Normal Service - 20%</item>
+    <item>Not that great - 15%</item>
+    <item>Not good - 10%</item>
+    <item>Purple</item>
+    </string-array>
+</resources>
